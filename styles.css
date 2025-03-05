@@ -1,11 +1,13 @@
 body {
-    font-family: Arial, sans-serif;
-    background: #121212;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #0d0d0d 40%, #1e1e1e 100%), url('background-pattern.png');
+    background-size: cover;
     color: white;
     text-align: center;
     margin: 0;
     padding: 0;
 }
+
 
 header {
     padding: 20px;
